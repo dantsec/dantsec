@@ -4,6 +4,7 @@
 
 - 🎓 Student of InfoSec and Programming
 - 🌱 I'm currently studying to C and future Assembly
+- 📚 Computing, Math, Physics and Music are my passion.
 - ⭐ Take a look at my projects and give a star
 
 <br/>

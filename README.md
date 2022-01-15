@@ -10,7 +10,7 @@
 <br/>
 <div>
     <a href="#">
-        <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dantalion-dev&layout=compact&theme=radical&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
+        <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dantsec&layout=compact&theme=radical&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
     </a>
 </div>
  
@@ -29,6 +29,6 @@
   <a href="https://twitter.com/dantaliondev" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%23333?style=for-the-badge&logo=twitter&logoColor=blue" target="_blank"></a>
   <a href="https://discord.gg/v5d3PZ9" target="_blank"><img src="https://img.shields.io/badge/-Discord-%23333?style=for-the-badge&logo=discord&logoColor=blue" target="_blank"></a>
 
-  ![Snake animation](https://github.com/Dantalion-dev/Dantalion-dev/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/dantsec/dantsec/blob/output/github-contribution-grid-snake.svg)
 
 </div>

@@ -5,7 +5,6 @@ Hi, I'm Dant 👩‍💻.
 
 @@I'm a technology enthusiast@@
 + Living in São Paulo, Brazil 🇧🇷.
-- 15 years old
 ! CS, math, physics and music are my passion
 # 📖 Programming languages, hacking, arch linux user btw
 ```

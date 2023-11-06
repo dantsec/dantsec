@@ -19,6 +19,8 @@ Hi, I'm Dant 👩‍💻.
 
 ##
 
+<!--
 <div style="display: inline_block"><br>
     <img align="center" src="https://github.com/dantsec/dantsec/blob/output/github-contribution-grid-snake.svg">
 </div>  
+-->

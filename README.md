@@ -1,26 +1,72 @@
-##
+```php
+<?php
 
-```diff
-Hi, I'm Dant 👩‍💻.
+namespace Dantsec;
 
-@@I'm a technology enthusiast@@
-+ Living in São Paulo, Brazil 🇧🇷.
-! CS, math, physics and music are my passion
-# 📖 Programming languages, hacking, arch linux user btw
+class About extends Me
+{
+    public function getContact(): array
+    {
+        return [
+            'website' => 'https://dantsec.github.io/',
+            'mail' => 'dantsec@proton.me'
+        ];
+    }
+
+    public function getCurrentWorkplace(): array
+    {
+        return [
+            'workplace' => [
+                'company' => 'Scaffold Education',
+                'position' => 'Trainee Backend Developer'
+            ]
+        ];
+    }
+
+    public function getPersonInformation(): array
+    {
+        return [
+            'country' => 'São Paulo, Brazil 🇧🇷',
+            'hobbies' => [
+                'Computer Science',
+                'Math',
+                'Physics',
+                'Music'
+            ],
+            'computer' => [
+                'os' => 'Manjaro Linux',
+                'host' => 'Aspire ES1-572'
+            ]
+        ];
+    }
+
+    public function getKnowledge(): array
+    {
+        return [
+            'programming_languages' => [
+                C::class,
+                Php::class,
+                Python::class,
+                Javascript::class,
+                ShellScript::class,
+            ],
+            'databases' => [
+                MySQL::class
+            ],
+            'frameworks' => [
+                Laravel::class,
+                Bootstrap::class,
+                jQuery::class
+            ],
+            'tools' => [
+                Vim::class,
+                Git::class,
+                Linux::class,
+                Windows::class,
+                VisualStudioCode::class
+                MySQLWorkbench::class
+            ]
+        ];
+    }
+}
 ```
-
-<Youre doing great>
-<Good things will come to you>
-<Drink water and stay awesome>
-
-<SECRET GUEST BOOK>
-<ooooooooooooooooo>
-<ooooooooooooooooo>
-
-##
-
-<!--
-<div style="display: inline_block"><br>
-    <img align="center" src="https://github.com/dantsec/dantsec/blob/output/github-contribution-grid-snake.svg">
-</div>  
--->

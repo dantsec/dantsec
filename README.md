@@ -8,35 +8,16 @@ class About extends Me
     public function getContact(): array
     {
         return [
-            'website' => 'https://dantsec.github.io/',
+            'blog' => 'https://dantsec.github.io/',
             'mail' => 'dantsec@proton.me'
         ];
     }
 
-    public function getCurrentWorkplace(): array
+    public function getPersonalInformation(): array
     {
         return [
-            'workplace' => [
-                'company' => 'Scaffold Education',
-                'position' => 'Trainee Backend Developer'
-            ]
-        ];
-    }
-
-    public function getPersonInformation(): array
-    {
-        return [
-            'country' => 'São Paulo, Brazil 🇧🇷',
-            'hobbies' => [
-                'Computer Science',
-                'Math',
-                'Physics',
-                'Music'
-            ],
-            'computer' => [
-                'os' => 'Manjaro Linux',
-                'host' => 'Aspire ES1-572'
-            ]
+            'country' => 'São Paulo, Brazil',
+            'work'    => 'Trainee Backend Developer'
         ];
     }
 
@@ -48,23 +29,24 @@ class About extends Me
                 Php::class,
                 Python::class,
                 Javascript::class,
-                ShellScript::class,
+                ShellScript::class
             ],
+
             'databases' => [
-                MySQL::class
+                MySQL::class,
+                SQLite::class
             ],
+
             'frameworks' => [
-                Laravel::class,
-                Bootstrap::class,
-                jQuery::class
+                jQuery::class,
+                Laravel::class
             ],
+
             'tools' => [
-                Vim::class,
                 Git::class,
-                Linux::class,
-                Windows::class,
-                VisualStudioCode::class
-                MySQLWorkbench::class
+                Jira::class,
+                Postman::class,
+                DBeaver::class
             ]
         ];
     }
